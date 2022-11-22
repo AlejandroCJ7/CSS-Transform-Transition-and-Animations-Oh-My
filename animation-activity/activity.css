@@ -41,3 +41,12 @@ nav {
   from {}
   to {}
 }
+
+/* Ive been stuck on this since yesterday for about 2 hours and today looking on w3 schools and youtube videos but couldnt pin point exactly what i was looking for*/
+#middle:hover {
+  display: none;
+}
+
+#bottom:hover{
+  transform: skew(-1, 10deg);
+}
